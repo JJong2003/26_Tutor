@@ -12,7 +12,7 @@
 main                   전체 튜터링 안내 (현재 branch)
 week-01-java-basic     1주차 실습 문제
 week-02-class-object   2주차 실습 문제
-week-03-gui            3주차 실습 문제
+week-03-class-arraylist 3주차 실습 문제
 ```
 
 `main` branch에는 문제가 없습니다. 각 주차의 실습 문제는 해당 주차의 branch에서 제공됩니다.
@@ -105,6 +105,6 @@ Pull Request 제출
 | --- | --- | --- |
 | 1주차 | `week-01-java-basic` | Java 기본 문법 진단 (코드 읽기 / 디버깅 / 직접 구현) |
 | 2주차 | `week-02-class-object` | 클래스와 객체 (값 복사와 주소 복사) |
-| 3주차 | `week-03-gui` | GUI 기초 (배치 관리자, 패널 중첩, 버튼 이벤트) |
+| 3주차 | `week-03-class-arraylist` | 클래스와 ArrayList (객체 참조, 목록 검색·수정, StudentManager) |
 
 각 주차 branch로 이동하면 해당 주차의 상세 안내(`README.md`)를 확인할 수 있습니다.
